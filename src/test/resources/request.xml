@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!DOCTYPE SESSION SYSTEM "pswincom_submit.dtd">
+<SESSION>
+    <CLIENT>demo</CLIENT>
+    <PW>password</PW>
+    <MSGLST>
+        <MSG>
+            <TEXT>Test message1</TEXT>
+            <RCV>4793000000</RCV>
+        </MSG>
+        <MSG>
+            <TEXT>Test message2</TEXT>
+            <RCV>4793000000</RCV>
+        </MSG>
+    </MSGLST>
+</SESSION>
