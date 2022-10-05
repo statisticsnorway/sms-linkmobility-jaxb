@@ -93,8 +93,8 @@ public class TestUnmarshalMarshal {
         ObjectFactory of = new ObjectFactory();
         SESSION session = of.createSESSION();
         session.setSD("Unik_id_for_denne_batchen_"+ new Random().nextInt());
-        session.setCLIENT("stsdemo");
-        session.setPW("KCk8jbHTn");
+        session.setCLIENT("linkmobilitykonto");
+        session.setPW("linkmobilitypassord");
         MSGLST msglst = of.createMSGLST();
         MSG msg1 = of.createMSG();
         msg1.setTEXT("Hei Lars-Roger");
